@@ -2,6 +2,9 @@
 
 A user-friendly web application that explains code snippets in simple English, powered by Groq's AI API.
 
+## streamlit link
+ **Live Demo:** [Click here to view](https://aicodeexplainer-8jkyzzdwszb63hvfoswezq.streamlit.app/)
+
 ### screenshot
 
 ### Streamlit (UI)
